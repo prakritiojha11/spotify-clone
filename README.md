@@ -16,7 +16,7 @@
 
 ## <span style="font-size: 28px">🎉 Experience the Groove</span>
 
-<span style="font-size: 20px">Can't wait to experience the rhythm? **[Feel the beat in our live demo](https://your-demo-url.com)**. Brace yourself for an auditory adventure like no other.</span>
+<span style="font-size: 20px">Can't wait to experience the rhythm? **[Feel the beat in our live demo](https://prakritiojha11.github.io/)**. Brace yourself for an auditory adventure like no other.</span>
 
 ## <span style="font-size: 28px">🎨 Crafted with HTML, Styled with CSS, Powered by JavaScript</span>
 
